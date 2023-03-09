@@ -1,0 +1,20 @@
+{
+  "name": "houndci-nest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Best-Verie/HoundCI-Nest.git"
+  },
+  "author": "Best Verie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Best-Verie/HoundCI-Nest/issues"
+  },
+  "homepage": "https://github.com/Best-Verie/HoundCI-Nest#readme"
+}
